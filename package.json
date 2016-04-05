@@ -2,7 +2,7 @@
   "name": "react-native-mock",
   "version": "0.0.6",
   "description": "A fully mocked and test-friendly version of react native",
-  "main": "build/react-native.js",
+  "main": "src/react-native.js",
   "scripts": {
     "prepublish": "npm run build",
     "test": "mocha --require babel-core/register test/**/*.js",

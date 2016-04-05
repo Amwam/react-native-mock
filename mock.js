@@ -1,4 +1,4 @@
-var ReactNativeMock = require('./build/react-native');
+var ReactNativeMock = require('./src/react-native');
 
 // the cache key that real react native would get
 var key = require.resolve('react-native');
